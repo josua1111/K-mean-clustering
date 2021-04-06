@@ -1,5 +1,10 @@
-# K-mean-clustering
-K-mean clustering
+# Tugas Artificial Intelligent
+## Contoh Kasus Penerapan Sistem K-Means
+## Nama  : Josuansef Pardede
+## NPM   : 1184091
+## Kelas : D4 TI 3A
+#
+# K-means Clustering - case
 
 An implementaion of K-mean clustering:
 
